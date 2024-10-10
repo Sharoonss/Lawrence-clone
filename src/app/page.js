@@ -7,7 +7,7 @@ export default function Home() {
       <Navbar />
       <Nav />
       <HeroSection />
-      <div>Footer</div>
+      <div>Footerr</div>
     </div>
   );
 }
